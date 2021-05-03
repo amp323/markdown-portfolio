@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Economics
+2. Econometrics
+4. Finance
+   1. Modeling
+   2. Economics
+   3. Real Estate
